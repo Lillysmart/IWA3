@@ -1,6 +1,9 @@
-private firstname = "Nwabisa"
-private surname = "Gabe"
-public role = "CEO"
+const firstname = "Nwabisa";
+const surname = "Gabe"
+const role = "CEO"
+   
 
-private display= firstname + " " + surname + " (" + role + ")"
+
+ display= firstname + " " + surname + " (" + role + ")"
 document.querySelector('#nwabisa').innerText = display
+
