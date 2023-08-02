@@ -1,6 +1,6 @@
 // scripts.js
 
-import {company} form 'configure.js';
+import {company} from 'configure.js';
 import year form 'configuration'
 
 const message = '© ' + company + ' (' + year + ')'
