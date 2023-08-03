@@ -1,4 +1,4 @@
-const firstname = "Johannes"
+ export const firstname = "Johannes"
 const surname = "Potgieter"
 const role = "Intern"
 
